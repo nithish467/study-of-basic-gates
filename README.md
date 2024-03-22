@@ -62,7 +62,7 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
+## PROGRAM
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
@@ -77,15 +77,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 
-**RTL realization Output:** 
-**RTL**
+## RTL realization Output:
+## RTL
 ![Screenshot 2024-03-22 115009](https://github.com/nithish467/study-of-basic-gates/assets/150232274/7100b4c3-5bb4-45a7-b987-24ba1a325744)
 
  ## OUTPUT:
  ![Screenshot 2024-03-22 114920](https://github.com/nithish467/study-of-basic-gates/assets/150232274/302247d7-884c-4244-85c9-7a7c4ca0f022)
 
 
-**Result:**
+## Result:
 program for logic gates and verify its truth table in quatrus using verilog programming
 
 
